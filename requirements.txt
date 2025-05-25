@@ -130,9 +130,6 @@ huggingface-hub==0.27.0
 idna==3.10
 ifaddr==0.2.0
 igraph==0.11.8
-image-classifiers==1.0.0
-ImageHash==4.3.1
-imageio==2.36.1
 importlib_metadata==8.5.0
 importlib_resources==6.4.5
 iniconfig==2.0.0
@@ -429,13 +426,9 @@ wasmtime==25.0.0
 watchdog==6.0.0
 watchfiles==1.0.3
 wcwidth==0.2.13
-webcolors==24.11.1
-webencodings==0.5.1
-Werkzeug==3.0.6
 wheel==0.45.1
 widgetsnbextension==4.0.13
 wordcloud==1.9.4
-world-bank-data==0.1.4
 wrapt==1.17.0
 wsproto==1.2.0
 xarray==2024.11.0
